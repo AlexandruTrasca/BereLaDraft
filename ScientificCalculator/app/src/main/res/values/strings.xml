@@ -25,4 +25,6 @@
 
     <string name="backspace"> </string>
 
+    <string name="display">Enter a value</string>
+
 </resources>
